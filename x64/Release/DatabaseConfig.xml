@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+	<DatabaseGroup type="MongoDB">
+		<URI>mongodb://localhost:27017</URI>
+		<Name>test20240815</Name>
+		<UserName></UserName>
+		<Password></Password>
+	</DatabaseGroup>
+	<DatabaseGroup type="MySQL">
+		<HostName>localhost:3306/test20240815</HostName>
+		<UserName>root</UserName>
+		<Password>root</Password>
+	</DatabaseGroup>
+</Database>
